@@ -6,7 +6,11 @@ Vite, React, and Tailwind CSS --template
 
 ```bash
 npm create @m4vi/vrt-tmp my-app
+
 cd my-app
+
+npm install
+
 npm run dev
 ```
 
