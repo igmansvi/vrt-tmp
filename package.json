@@ -1,5 +1,5 @@
 {
-  "name": "create-vrt-tmp",
+  "name": "@m4vi/create-vrt-tmp",
   "version": "1.0.0",
   "description": "Vite, React, and Tailwind CSS --template",
   "type": "module",
