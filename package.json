@@ -1,0 +1,31 @@
+{
+  "name": "create-vrt-tmp",
+  "version": "1.0.0",
+  "description": "Vite, React, and Tailwind CSS --template",
+  "type": "module",
+  "license": "MIT",
+  "author": {
+    "name": "m4vi"
+  },
+  "bin": {
+    "create-vrt-tmp": "./index.js"
+  },
+  "files": [
+    "index.js",
+    "template"
+  ],
+  "engines": {
+    "node": "^14.18.0 || >=16.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/igmansvi/vrt-tmp.git"
+  },
+  "keywords": [
+    "vite",
+    "react",
+    "tailwindcss",
+    "template",
+    "create"
+  ]
+}
