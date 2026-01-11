@@ -5,7 +5,7 @@ Vite, React, and Tailwind CSS --template
 ## Quick Start
 
 ```bash
-npm create vrt-tmp@latest my-app
+npm create @m4vi/vrt-tmp my-app
 cd my-app
 npm run dev
 ```
